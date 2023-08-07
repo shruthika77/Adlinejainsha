@@ -1,4 +1,4 @@
-👋 Hi, I’m Adline Jainsha 
+👋 Hi, I’m data scientist
 👀 I’m a Geek who is also interested in Photography/Videography
 🌱 I am familiar with C, C++, Java, HTML, Python.
 🎓 I'm currently pursuing my Degree in B.E. computer science and engineering
